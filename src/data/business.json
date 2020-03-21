@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Smart Barber",
+        "address": "400 E 74th Street, New York, NY 10021",
+        "phone": "(646) 756-5036",
+        "hours": [
+            {
+                "Sunday": "9am - 7pm",
+                "Monday": "10am - 8pm",
+                "Tuesday": "10am - 8pm",
+                "Wednesday": "10am - 8pm",
+                "Thursday": "10am - 8pm",
+                "Friday": "8am - 5pm",
+                "Saturday": "Closed"
+            }
+        ],
+        "instagram": "https://www.instagram.com/smartbarbernyc",
+        "facebook": "https://m.facebook.com/Smart-Barber-1775828576054267",
+        "booksy": "https://booksy.com/en-us/139024_smart-barber_barber-shop_30067_new-york-city"
+    }
+]

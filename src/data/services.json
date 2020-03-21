@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Haircut",
+        "price": "$35"
+    },
+    {
+        "name": "Haircut & Beard",
+        "price": "$45"
+    },
+    {
+        "name": "Kids Haircut",
+        "price": "$35"
+    },
+    {
+        "name": "Haircut, Wash & Style",
+        "price": "$40"
+    },
+    {
+        "name": "Hot Shave",
+        "price": "$35"
+    },
+    {
+        "name": "Buzz Cut (same length all around)",
+        "price": "$20"
+    },
+    {
+        "name": "Beard Trim",
+        "price": "$15"
+    },
+    {
+        "name": "Haircut & Hot Shave",
+        "price": "$65"
+    },
+    {
+        "name": "Taper Edges Lineup",
+        "price": "$15"
+    },
+    {
+        "name": "Taper Edges Lineup & Beard Trim",
+        "price": "$25"
+    },
+    {
+        "name": "Buzz Cut & Beard Trim",
+        "price": "$30"
+    }
+]
